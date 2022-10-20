@@ -1,0 +1,15 @@
+header img{
+	border: 5px solid #ffffff;
+}
+.atas{
+	padding-top: 10rem;
+	background-image: url(img/it.jpg);
+	background-size: 1365px;
+}
+.about{
+	background-image: url(img/it2.jpg);
+	background-size: 1365px;
+}
+.tentang-saya {
+  padding-top: 6rem;
+}
